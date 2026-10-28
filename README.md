@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:7C3AED,100:06B6D4&height=230&section=header&text=WELCOME%20TO%20MY%20GITHUB%20PROFILE&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CHATURYA%20THUKIVAKAM%20%7C%20AI%20%26%20DEEP%20LEARNING%20ENTHUSIAST&descSize=14&descAlignY=58&descColor=E0E7FF" width="100%" alt="Welcome to my GitHub profile" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0A3C,50:6D28D9,100:22D3EE&height=230&section=header&text=WELCOME%20TO%20MY%20GITHUB%20PROFILE&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CHATURYA%20THUKIVAKAM%20%7C%20AI%20%26%20DEEP%20LEARNING%20ENTHUSIAST&descSize=14&descAlignY=58&descColor=E0E7FF" width="100%" alt="Welcome to my GitHub profile" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=AI+%26+Deep+Learning+Developer;Generative+AI+%7C+GANs+%7C+VAEs+%7C+LLMs;Computer+Vision+%26+Neural+Networks;Building+Intelligent+Systems+with+Python+%26+PyTorch" alt="Developer introduction" />
 
@@ -12,8 +12,8 @@
 
 *Welcome to my GitHub — where I build, experiment, and push the boundaries of AI & Machine Learning.*
 
-[![GitHub](https://img.shields.io/badge/GITHUB-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaturyathukivakam)
-[![Gmail](https://img.shields.io/badge/GMAIL-06B6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaturyathukivakam@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaturyathukivakam)
+[![Gmail](https://img.shields.io/badge/GMAIL-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaturyathukivakam@gmail.com)
 
 </div>
 
@@ -56,7 +56,7 @@ Hi! I'm **Chaturya Thukivakam**, a passionate developer with deep interest in Ar
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Matplotlib-7C3AED?style=for-the-badge" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Matplotlib-6D28D9?style=for-the-badge" alt="Matplotlib" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 
 ### 🛠️ Tools & Development Environment
@@ -94,7 +94,7 @@ A Streamlit-powered application for AI-driven image transformation using state-o
 - Side-by-side comparison with MSE, PSNR metrics, and per-pixel difference heatmaps.
 - Smart device detection (CUDA / MPS / CPU) with cached model loading.
 
-[![GitHub](https://img.shields.io/badge/VIEW_SOURCE-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaturyathukivakam/AI-Image-Variation-and-Reconstruction-Studio)
+[![GitHub](https://img.shields.io/badge/VIEW_SOURCE-0F0A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaturyathukivakam/AI-Image-Variation-and-Reconstruction-Studio)
 
 ---
 
@@ -112,7 +112,7 @@ A comprehensive portfolio spanning GANs, VAEs, Style Transfer, and LLM fine-tuni
 - VAE for image compression, reconstruction, and denoising.
 - LLM-powered GitHub code explainer using Qwen2.5.
 
-[![GitHub](https://img.shields.io/badge/VIEW_SOURCE-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaturyathukivakam/GenAI)
+[![GitHub](https://img.shields.io/badge/VIEW_SOURCE-0F0A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaturyathukivakam/GenAI)
 
 ---
 
@@ -128,7 +128,7 @@ A collection of foundational to advanced deep learning projects covering activat
 - SGD vs Adam optimizer benchmarking on neural networks.
 - Manual convolution and pooling operations with OpenCV.
 
-[![GitHub](https://img.shields.io/badge/VIEW_SOURCE-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaturyathukivakam/Deep-Learning-Projects)
+[![GitHub](https://img.shields.io/badge/VIEW_SOURCE-0F0A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaturyathukivakam/Deep-Learning-Projects)
 
 ---
 
@@ -138,7 +138,7 @@ Business analytics coursework focused on applying analytical frameworks and data
 
 **Technologies:** Data Analytics • Business Intelligence
 
-[![GitHub](https://img.shields.io/badge/VIEW_SOURCE-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaturyathukivakam/Business-Analytics)
+[![GitHub](https://img.shields.io/badge/VIEW_SOURCE-0F0A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaturyathukivakam/Business-Analytics)
 
 ---
 
@@ -154,7 +154,7 @@ Business analytics coursework focused on applying analytical frameworks and data
 
 ### 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=Chaturyathukivakam&theme=tokyonight&hide_border=true&background=1A1025&ring=A78BFA&fire=7C3AED&currStreakLabel=E0E7FF&sideLabels=C4B5FD&dates=A78BFA" width="70%" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Chaturyathukivakam&theme=tokyonight&hide_border=true&background=0F0A3C&ring=A78BFA&fire=6D28D9&currStreakLabel=E0E7FF&sideLabels=C4B5FD&dates=A78BFA" width="70%" alt="GitHub contribution streak" />
 
 <br/><br/>
 
@@ -191,12 +191,12 @@ I believe in learning by doing — every project is a step toward mastering the 
 
 Let's connect, collaborate, and build amazing things together!
 
-[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaturyathukivakam)
-[![Gmail](https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaturyathukivakam@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0F0A3C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chaturyathukivakam)
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaturyathukivakam@gmail.com)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Chaturyathukivakam&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile view counter" />
+<img src="https://komarev.com/ghpvc/?username=Chaturyathukivakam&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile view counter" />
 
 <br/><br/>
 
@@ -206,6 +206,6 @@ Let's connect, collaborate, and build amazing things together!
 
 *Keep learning. Keep building. Keep innovating.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:1E1B4B&height=110&section=footer" width="100%" alt="Decorative footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:6D28D9,100:0F0A3C&height=110&section=footer" width="100%" alt="Decorative footer banner" />
 
 </div>
